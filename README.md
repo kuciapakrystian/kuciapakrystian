@@ -1,6 +1,6 @@
 **<h1 align="center">Hi<span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></span>, I'm Krystian Kuciapa</h1>**
 <h3 align="center">I`m interested in computer technology, with a passion for creating modern and responsive web applications!</h3>
-<div class="tenor-gif-embed" data-postid="7732834202298460898" data-share-method="host" data-aspect-ratio="2.70652" data-width="100%"><a href="https://tenor.com/view/ocorrencia-gif-7732834202298460898">Ocorrencia GIF</a>from <a href="https://tenor.com/search/ocorrencia-gifs">Ocorrencia GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 🌱 I’m currently learning Node.js, React and Python
 
 📫 How to reach me **kuciapakrystian@outlook.com**
