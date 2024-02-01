@@ -1,7 +1,7 @@
 **<h1 align="center">Hi<span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></span>, I'm Krystian Kuciapa</h1>**
 <h3 align="center">I`m interested in computer technology, with a passion for creating modern and responsive web applications!</h3>
 
-[![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#matrix.to:matrix.org)
+
 
 🌱 I’m currently learning Node.js, React and Python
 
