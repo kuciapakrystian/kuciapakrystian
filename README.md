@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Krystian Kuciapa</h1>
 <h3 align="center">I am interested in computer technology, with a passion for creating modern and responsive web applications! I’m currently learning React.js, Node.js and Python.</h3>
+
+![](https://komarev.com/ghpvc/?username=krystiankuciapa&style=plastic&color=228be6)
+- 📫 How to reach me **kuciapakrystian@outlook.com**
+
 <div> <a href="https://github.com/kuciapakrystian" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:kuciapakrystian@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
