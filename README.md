@@ -10,8 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=kuciapakrystian&style=plastic&color=228be6)
 ![GitHub User's stars](https://img.shields.io/github/stars/kuciapakrystian?style=plastic&logoColor=%23228be6)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/legiliments"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="legiliments" /></a><a href="https://ko-fi.com/legiliments"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="legiliments" /></a></p><br><br>
+
 
 <h3 align="left">Connect with me:</h3>
 <div> <a href="https://github.com/kuciapakrystian" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -31,6 +30,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/legiliments"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="legiliments" /></a><a href="https://ko-fi.com/legiliments"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="legiliments" /></a></p><br><br>
 
 <img
   align="center"
