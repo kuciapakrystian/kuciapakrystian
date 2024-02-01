@@ -28,6 +28,8 @@
 </p>
 
 
+![MasterHead](https://dribbble.com/shots/3587000-Coding/attachments/9907911?mode=media)
+
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuciapakrystian&layout=compact&theme=tokyonight" alt=kuciapakrystian />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kuciapakrystian&show_icons=true&locale=en&theme=tokyonight" alt="kuciapakrystian" /></p>
