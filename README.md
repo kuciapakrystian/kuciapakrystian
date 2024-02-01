@@ -28,7 +28,7 @@
 </p>
 
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuciapakrystian&layout=compact&theme=dark" alt=kuciapakrystian />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuciapakrystian&layout=compact&theme=dark" alt=kuciapakrystian />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kuciapakrystian&theme=dark" alt="kuciapakrystian" /></p>
 
