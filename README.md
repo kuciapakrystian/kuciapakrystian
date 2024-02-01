@@ -33,7 +33,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuciapakrystian&layout=compact&theme=tokyonight" alt=kuciapakrystian />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kuciapakrystian&show_icons=true&locale=en&theme=tokyonight" alt="kuciapakrystian" /></p>
-<img align="right" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="code" width="30%" />
+<img align="center" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="code" width="30%" />
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kuciapakrystian&theme=tokyonight" alt="kuciapakrystian" /></p>
 
 
