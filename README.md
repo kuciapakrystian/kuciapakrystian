@@ -4,6 +4,9 @@
 
 - 📫 How to reach me **kuciapakrystian@outlook.com**
 
+![](https://komarev.com/ghpvc/?username=kuciapakrystian&style=plastic&color=228be6)
+![GitHub User's stars](https://img.shields.io/github/stars/kuciapakrystian?style=plastic&logoColor=%23228be6)
+
 <div> <a href="https://github.com/kuciapakrystian" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:kuciapakrystian@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
