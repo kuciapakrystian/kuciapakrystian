@@ -1,8 +1,8 @@
 **<h1 align="center">Hi<span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></span>, I'm Krystian Kuciapa</h1>**
 <h3 align="center">I`m interested in computer technology, with a passion for creating modern and responsive web applications!</h3>
 
-
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA"></a></p>
 🌱 I’m currently learning Node.js, React and Python
 
 📫 How to reach me **kuciapakrystian@outlook.com**
