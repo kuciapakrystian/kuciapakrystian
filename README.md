@@ -1,7 +1,6 @@
 **<h1 align="center">Hi<span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></span>, I'm Krystian Kuciapa</h1>**
 <h3 align="center">I`m interested in computer technology, with a passion for creating modern and responsive web applications!</h3>
-<img align="right" alt="Coding" width="400" src="(https://tenor.com/pl/view/ocorrencia-gif-7732834202298460898)"/>
-
+<img align="right" alt="Coding" width="400" src="https://tenor.com/pl/view/ocorrencia-gif-7732834202298460898"/>
 🌱 I’m currently learning Node.js, React and Python
 
 📫 How to reach me **kuciapakrystian@outlook.com**
