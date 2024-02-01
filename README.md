@@ -37,4 +37,4 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kuciapakrystian&theme=tokyonight" alt="kuciapakrystian" /></p>
 
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
