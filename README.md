@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></span> Krystian Kuciapa</h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I`m </span> Krystian Kuciapa</h1>
 <h3 align="center">I am interested in computer technology, with a passion for creating modern and responsive web applications!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuciapakrystian&label=Profile%20views&color=0e75b6&style=flat" alt="kuciapakrystian" /> </p>
 
