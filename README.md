@@ -28,12 +28,12 @@
 </p>
 
 
-![MasterHead]([https://docs.devsense.com/content_docs/vscode/imgs/format-document.gif](https://e0.pxfuel.com/wallpapers/2/730/desktop-wallpaper-repin-matrix-binary-code-gif-on.jpg))
+
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuciapakrystian&layout=compact&theme=tokyonight" alt=kuciapakrystian />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kuciapakrystian&show_icons=true&locale=en&theme=tokyonight" alt="kuciapakrystian" /></p>
-<img align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="code" width="30%" />
+<img align="right" src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="code" width="30%" />
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kuciapakrystian&theme=tokyonight" alt="kuciapakrystian" /></p>
 
 
