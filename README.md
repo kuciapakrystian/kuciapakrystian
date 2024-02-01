@@ -29,7 +29,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 </p>
 
-
+<img
+  align="right"
+  width="400"
+  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+  alt="Coding"
+/>
 
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuciapakrystian&layout=compact&theme=tokyonight" alt=kuciapakrystian />
