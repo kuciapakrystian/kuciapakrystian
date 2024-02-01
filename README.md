@@ -1,5 +1,9 @@
 <h1 align="center">Hi! <img src="https://media.giphy.ancom/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></sp> I`m Krystian Kuciapa</h1>
 <h3 align="center">I`m interested in computer technology, with a passion for creating modern and responsive web applications!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuciapakrystian&label=Profile%20views&color=0e75b6&style=flat" alt="kuciapakrystian" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuciapakrystian&theme=" alt="kuciapakrystian" /></a> </p>
+
 - 🌱 I’m currently learning **Node.js, React and Python**
 
 - 📫 How to reach me **kuciapakrystian@outlook.com**
