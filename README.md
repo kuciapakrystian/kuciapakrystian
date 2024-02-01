@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krystian Kuciapa</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></span>, I'm Krystian Kuciapa</h1>
 <h3 align="center">I am interested in computer technology, with a passion for creating modern and responsive web applications! I’m currently learning React.js, Node.js and Python.</h3>
 
 
