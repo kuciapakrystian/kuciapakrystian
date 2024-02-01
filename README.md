@@ -1,12 +1,13 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></span>, I'm Krystian Kuciapa</h1>
-<h3 align="center">I am interested in computer technology, with a passion for creating modern and responsive web applications! I’m currently learning React.js, Node.js and Python.</h3>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></span> Krystian Kuciapa</h1>
+<h3 align="center">I am interested in computer technology, with a passion for creating modern and responsive web applications!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuciapakrystian&label=Profile%20views&color=0e75b6&style=flat" alt="kuciapakrystian" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuciapakrystian&theme=" alt="kuciapakrystian" /></a> </p>
 
-![](https://komarev.com/ghpvc/?username=krystiankuciapa&style=plastic&color=228be6)
-
+- 🌱 I’m currently learning **Node.js, React and Python**
 
 - 📫 How to reach me **kuciapakrystian@outlook.com**
-  
 
 <div> <a href="https://github.com/kuciapakrystian" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:kuciapakrystian@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -27,7 +28,7 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuciapakrystian&layout=compact&theme=dark" alt=kuciapakrystian />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kuciapakrystian&theme=" alt="kuciapakrystian" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kuciapakrystian&theme=dark" alt="kuciapakrystian" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -38,3 +39,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kuciapakrystian&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuciapakrystian&theme=2077" height="180em" />
 </div>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
