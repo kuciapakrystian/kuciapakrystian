@@ -28,14 +28,11 @@
 </p>
 
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuciapakrystian&layout=compact&theme=dark" alt=kuciapakrystian />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuciapakrystian&layout=compact&theme=tokyonight" alt=kuciapakrystian />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kuciapakrystian&theme=dark" alt="kuciapakrystian" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kuciapakrystian&show_icons=true&locale=en&theme=tokyonight" alt="kuciapakrystian" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=krystiankuciapa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="krystiankuciapa" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krystiankuciapa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="krystiankuciapa" /></p>
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krystiankuciapa&theme=tokyonight" alt="krystiankuciapa" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kuciapakrystian&theme=tokyonight" alt="kuciapakrystian" /></p>
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
