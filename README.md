@@ -33,7 +33,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/legiliments"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="legiliments" /></a><a href="https://ko-fi.com/legiliments"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="legiliments" /></a></p><br><br>
-
+<a href="https://tipply.pl/@joinkrystian"> <img align="left" scr="https://upload.wikimedia.org/wikipedia/commons/3/32/TIPPLY.PL_LOGO_BLACK.png" height="50" width="210" alt="legiliments"/></a>
 <img
   align="center"
   width="900"
