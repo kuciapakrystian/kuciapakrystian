@@ -32,7 +32,7 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/legiliments"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="legiliments" /></a><a href="https://ko-fi.com/legiliments"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="legiliments" /></a></p></p></a><a href="https://tipply.pl/@joinkrystian"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxCsaNJjQzA-rRscZIivFSoUDUp1O4pj1XH6gwtbvsw3RynqSE-yFMY_gMJwrM5CvQN2w&usqp=CAU" height="50" width="210" alt="legiliments" /></a></a><a href="https://www.paypal.com/paypalme/legiliments"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWeyyoUIeEQR1pLEHUR-NUxcYLFPM0iyhnww&usqp=CAU" height="50" width="210" alt="legiliments" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/legiliments"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="legiliments" /></a><a href="https://ko-fi.com/legiliments"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="legiliments" /></a><br></a></p></p></a><a href="https://tipply.pl/@joinkrystian"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxCsaNJjQzA-rRscZIivFSoUDUp1O4pj1XH6gwtbvsw3RynqSE-yFMY_gMJwrM5CvQN2w&usqp=CAU" height="50" width="210" alt="legiliments" /></a></a><a href="https://www.paypal.com/paypalme/legiliments"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWeyyoUIeEQR1pLEHUR-NUxcYLFPM0iyhnww&usqp=CAU" height="50" width="210" alt="legiliments" /></a></p><br><br>
 
 <img
   align="center"
