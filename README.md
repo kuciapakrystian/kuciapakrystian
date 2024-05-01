@@ -2,7 +2,7 @@
 <h3 align="center">I`m interested in computer technology, with a passion for creating modern and responsive web applications!</h3>
 
 <img align="right" alt="Coding" width="270" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
-<!-- badges for social network -->
+
 
 🌐 **Languages** :
 Polish - native | English - pre-intermediate
@@ -11,7 +11,7 @@ Polish - native | English - pre-intermediate
 ![](https://komarev.com/ghpvc/?username=kuciapakrystian&style=plastic&color=228be6)
 ![GitHub User's stars](https://img.shields.io/github/stars/kuciapakrystian?style=plastic&logoColor=%23228be6)
 
-
+<!-- badges for social network -->
 
 
 </div><h3 align="left">Languages and Tools:</h3>
