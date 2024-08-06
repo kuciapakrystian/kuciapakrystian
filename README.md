@@ -33,7 +33,7 @@ Polish - native | English - pre-intermediate
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://buycoffee.to/krystiankuciapa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="legiliments" /></a><a href="https://buycoffee.to/zakodowany"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPdRWiLapSxWp9rLeEdxYQ7P5rtZrkopFF7Q&usqp=CAU" height="50" width="210" alt="legiliments" /></a><a href="https://www.paypal.com/paypalme/legiliments"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWeyyoUIeEQR1pLEHUR-NUxcYLFPM0iyhnww&usqp=CAU" height="50" width="210" alt="legiliments" /></a></p><br>
+<p><a href="https://buycoffee.to/krystiankuciapa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="legiliments" /></a><a href="https://https://buycoffee.to/krystiankuciapa"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPdRWiLapSxWp9rLeEdxYQ7P5rtZrkopFF7Q&usqp=CAU" height="50" width="210" alt="legiliments" /></a><a href="https://www.paypal.com/paypalme/legiliments"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWeyyoUIeEQR1pLEHUR-NUxcYLFPM0iyhnww&usqp=CAU" height="50" width="210" alt="legiliments" /></a></p><br>
 
 <img
   align="center"
