@@ -10,6 +10,7 @@ Polish - native | English - pre-intermediate
 
 ![](https://komarev.com/ghpvc/?username=kuciapakrystian&style=plastic&color=228be6)
 ![GitHub User's stars](https://img.shields.io/github/stars/kuciapakrystian?style=plastic&logoColor=%23228be6)
+<a href="https://www.codewars.com/users/kuciapakrystian"><img src="https://www.codewars.com/users/kuciapakrystian/badges/small">
 
 <!-- badges for social network -->
 
