@@ -9,8 +9,6 @@
 <img align="right" width="260"
 src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
 
----
-
 🌐 **Languages**  
 Polish – native | English – pre-intermediate  
 
@@ -19,8 +17,6 @@ Polish – native | English – pre-intermediate
 <a href="https://www.codewars.com/users/kuciapakrystian">
   <img src="https://www.codewars.com/users/kuciapakrystian/badges/small">
 </a>
-
----
 
 <div align="left">
 
@@ -41,8 +37,6 @@ Polish – native | English – pre-intermediate
 
 </div>
 
----
-
 <div align="left">
 
 <h3>🎓 Licenses & Certifications</h3>
@@ -52,8 +46,6 @@ Polish – native | English – pre-intermediate
 </a>
 
 </div>
-
----
 
 <div align="center">
 
