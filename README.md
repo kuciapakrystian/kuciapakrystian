@@ -36,9 +36,12 @@ Polish - native | English - pre-intermediate
 
 
 <h3 align="center">Licenses & certifications:</h3>
-<div align="left">
-<a href="https://www.credly.com/badges/cc59964f-a856-4da6-b820-0a33c9f26c10/public_url" target="_blank"><img src="./docs/images/nasa-open-science-101.png" alt="NASA Open Science" width="84" /></a></p>
-</div>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/cc59964f-a856-4da6-b820-0a33c9f26c10/public_url" target="_blank">
+    <img src="./docs/images/nasa-open-science-101.png" alt="NASA Open Science" width="84" />
+  </a>
+</p>
 
 
 <img
