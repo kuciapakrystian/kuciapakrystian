@@ -35,13 +35,16 @@ Polish - native | English - pre-intermediate
 <p><a href="https://buymeacoffee.com/legiliments"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="legiliments" /></a><a href="https://buycoffee.to/krystiankuciapa"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPdRWiLapSxWp9rLeEdxYQ7P5rtZrkopFF7Q&usqp=CAU" height="50" width="210" alt="legiliments" /></a><a href="https://www.paypal.com/paypalme/legiliments"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWeyyoUIeEQR1pLEHUR-NUxcYLFPM0iyhnww&usqp=CAU" height="50" width="210" alt="legiliments" /></a></p><br>
 
 
+<div align="left">
+
 <h3>Licenses & certifications:</h3>
 
-<p>
-  <a href="https://www.credly.com/badges/cc59964f-a856-4da6-b820-0a33c9f26c10/public_url" target="_blank">
-    <img src="./docs/images/nasa-open-science-101.png" alt="NASA Open Science" width="84" />
-  </a>
-</p>
+<a href="https://www.credly.com/badges/cc59964f-a856-4da6-b820-0a33c9f26c10/public_url" target="_blank">
+  <img src="./docs/images/nasa-open-science-101.png" alt="NASA Open Science" width="84" />
+</a>
+
+</div>
+
 
 
 
