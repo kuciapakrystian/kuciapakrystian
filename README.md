@@ -45,4 +45,25 @@ Polish – native | English – pre-intermediate
 
 <div align="left">
 
-<h3>🎓 Li
+<h3>🎓 Licenses & Certifications</h3>
+
+<a href="https://www.credly.com/badges/cc59964f-a856-4da6-b820-0a33c9f26c10/public_url" target="_blank">
+  <img src="./docs/images/nasa-open-science-101.png" width="90"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuciapakrystian&layout=compact&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=kuciapakrystian&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=kuciapakrystian&theme=tokyonight"/>
+
+</div>
